@@ -2,7 +2,8 @@ Wirtschaftsmathematische KI-Kundenabwanderungsvorhersage (Telco Churn Prediction
 Dieses Repository enthält ein End-to-End-Projekt im Bereich Data Science & Predictive Analytics, das die mathematischen Grundlagen einer binären Klassifikation mit strategischen Business-Coaching-Ansätzen zur Risikominimierung in Unternehmen verknüpft.
 ---
 🚀 Kern-Ergebnisse & Business-Impact
-Strategische Schwellenwert-Optimierung (Threshold Shift): Durch das Absenken des Klassifikations-Schwellenwerts von `0.5` auf `0.3` wurde das Fangnetz für wechselwillige Kunden drastisch vergrößert.
+Strategische Schwellenwert-Optimierung (Threshold Shift):
+Durch das Absenken des Klassifikations-Schwellenwerts von `0.5` auf `0.3` wurde das Fangnetz für wechselwillige Kunden drastisch vergrößert.
 Maximierung des Recalls auf 78 %: Das Modell identifiziert nun rechtzeitig 78 % aller tatsächlichen Abwanderer (Klasse 1), wodurch das finanzielle Verlustrisiko des Unternehmens minimiert wird.
 Identifikation des stärksten Churn-Treibers: Die mathematische Analyse isolierte Glasfaser-Internet (Beta-Gewicht: +1.077) als primäre Kündigungsfalle, was als direkte Steilvorlage für strategische Produkt- und Service-Workshops im Management dient.
 ---
